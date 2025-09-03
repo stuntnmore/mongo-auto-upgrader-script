@@ -1268,7 +1268,7 @@ info "Memory: $(free -h | grep ^Mem | awk '{print $2}')"
 
 # Confirmation
 echo ""
-warning "This will upgrade MongoDB to 6.0.14"
+warning "This will upgrade MongoDB to 7.0.14"
 warning "Process may take 30-90 minutes"
 echo ""
 read -p "Continue? Type 'UPGRADE' to proceed: " -r
