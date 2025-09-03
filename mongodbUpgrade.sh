@@ -1234,7 +1234,7 @@ if [[ "${1:-}" == "--help" ]] || [[ "${1:-}" == "-h" ]]; then
 Clean MongoDB Upgrade Script
 ============================
 
-Upgrades MongoDB from 3.2+ to 6.0.14 with minimal complexity.
+Upgrades MongoDB from 3.2+ to 7.0.14 with minimal complexity.
 
 REQUIREMENTS:
 - Ubuntu 18.04+ (libcurl3 PPA used for 18.04)
